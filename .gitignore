@@ -1,0 +1,5 @@
+# ignore các file bắt đầu bằng log
+log*
+
+# ignore các file có đuôi là .js
+*.js
